@@ -1,5 +1,3 @@
-# Similarity Search Database 
-
 # Natural Product Dashboard
 
 This Dash app explores the natural products dataset - COCONUT (COlleCtion of Open Natural ProdUcTs). It allows you to perform similarity searches based on SMILES strings and corresponding Tanimoto Similarity.
