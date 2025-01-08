@@ -7,7 +7,7 @@ from rdkit.Chem.Fingerprints import FingerprintMols
 import time  
 
 #change path as per your structure
-df = pd.read_csv('/Users/u1536635/Downloads/notebooks/high_qed_coconut_desc.csv')  # Ensure this file includes the necessary descriptors
+df = pd.read_csv('/Users/u1536635/Downloads/notebooks/high_qed_coconut_desc.csv')  
 
 numeric_columns = [
     'MolecularWeight', 'LogP', 'TPSA', 'NumRotatableBonds', 'NumAromaticRings',
